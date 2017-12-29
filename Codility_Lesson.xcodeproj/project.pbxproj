@@ -6,10 +6,6 @@
 	objectVersion = 48;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		3A3BC76D1FF68E5A00DE8566 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A3BC76C1FF68E5A00DE8566 /* main.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		3A3BC7671FF68E5A00DE8566 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,46 @@
 
 /* Begin PBXFileReference section */
 		3A3BC7691FF68E5A00DE8566 /* Codility_Lesson */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codility_Lesson; sourceTree = BUILT_PRODUCTS_DIR; };
-		3A3BC76C1FF68E5A00DE8566 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3A3BC7731FF68E8600DE8566 /* codility_lesson0_Demo1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson0_Demo1.cpp; sourceTree = "<group>"; };
+		3A3BC7741FF68E8600DE8566 /* codility_lesson3_FrogJmp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson3_FrogJmp.cpp; sourceTree = "<group>"; };
+		3A3BC7751FF68E8600DE8566 /* codility_lesson5_GenomicRangeQuery.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson5_GenomicRangeQuery.cpp; sourceTree = "<group>"; };
+		3A3BC7761FF68E8600DE8566 /* codility_lesson15_CountTriangles.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson15_CountTriangles.cpp; sourceTree = "<group>"; };
+		3A3BC7771FF68E8600DE8566 /* codility_lesson4_PermCheck.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson4_PermCheck.cpp; sourceTree = "<group>"; };
+		3A3BC7781FF68E8600DE8566 /* codility_lesson2_CyclicRotation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson2_CyclicRotation.cpp; sourceTree = "<group>"; };
+		3A3BC7791FF68E8600DE8566 /* codility_lesson9_MaxProfit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson9_MaxProfit.cpp; sourceTree = "<group>"; };
+		3A3BC77A1FF68E8600DE8566 /* codility_lesson1_Iterations_BinaryGap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson1_Iterations_BinaryGap.cpp; sourceTree = "<group>"; };
+		3A3BC77B1FF68E8600DE8566 /* codility_lesson4_FrogRiverOne.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson4_FrogRiverOne.cpp; sourceTree = "<group>"; };
+		3A3BC77C1FF68E8600DE8566 /* codility_lesson5_PassingCars.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson5_PassingCars.cpp; sourceTree = "<group>"; };
+		3A3BC77D1FF68E8700DE8566 /* codility_lesson5_CountDiv.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson5_CountDiv.cpp; sourceTree = "<group>"; };
+		3A3BC77E1FF68E8700DE8566 /* codility_lesson6_sorting_MaxProductOfThree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson6_sorting_MaxProductOfThree.cpp; sourceTree = "<group>"; };
+		3A3BC77F1FF68E8700DE8566 /* codility_lesson16_MaxNonoverlappingSegments.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson16_MaxNonoverlappingSegments.cpp; sourceTree = "<group>"; };
+		3A3BC7801FF68E8700DE8566 /* codility_lesson15_AbsDistinct.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson15_AbsDistinct.cpp; sourceTree = "<group>"; };
+		3A3BC7811FF68E8700DE8566 /* codility_lesson15_CountDistinctSlices.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson15_CountDistinctSlices.cpp; sourceTree = "<group>"; };
+		3A3BC7821FF68E8700DE8566 /* codility_lesson7_Brackets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson7_Brackets.cpp; sourceTree = "<group>"; };
+		3A3BC7831FF68E8700DE8566 /* codility_lesson10_Flags.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson10_Flags.cpp; sourceTree = "<group>"; };
+		3A3BC7841FF68E8800DE8566 /* codility_lesson14_NailingPlanks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson14_NailingPlanks.cpp; sourceTree = "<group>"; };
+		3A3BC7851FF68E8800DE8566 /* codility_lesson7_stack_queue_fish.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson7_stack_queue_fish.cpp; sourceTree = "<group>"; };
+		3A3BC7861FF68E8800DE8566 /* codility_lesson3_TapeEquilibrium.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson3_TapeEquilibrium.cpp; sourceTree = "<group>"; };
+		3A3BC7871FF68E8800DE8566 /* codility_lesson16_TieRopes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson16_TieRopes.cpp; sourceTree = "<group>"; };
+		3A3BC7881FF68E8800DE8566 /* codility_lesson11_CountSemiprimes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson11_CountSemiprimes.cpp; sourceTree = "<group>"; };
+		3A3BC7891FF68E8800DE8566 /* codility_lesson6_Distinct.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson6_Distinct.cpp; sourceTree = "<group>"; };
+		3A3BC78A1FF68E8800DE8566 /* codility_lesson9_MaxDoubleSliceSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson9_MaxDoubleSliceSum.cpp; sourceTree = "<group>"; };
+		3A3BC78B1FF68E8800DE8566 /* codility_lesson2_OddOccurrencesInArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson2_OddOccurrencesInArray.cpp; sourceTree = "<group>"; };
+		3A3BC78C1FF68E8900DE8566 /* codility_lesson5_MinAvgTwoSlice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson5_MinAvgTwoSlice.cpp; sourceTree = "<group>"; };
+		3A3BC78D1FF68E8900DE8566 /* codility_lesson7_stack_queue_StoneWall.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson7_stack_queue_StoneWall.cpp; sourceTree = "<group>"; };
+		3A3BC78E1FF68E8900DE8566 /* codility_lesson10_peaks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson10_peaks.cpp; sourceTree = "<group>"; };
+		3A3BC78F1FF68E8900DE8566 /* codility_lesson3_PermMissingElem.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson3_PermMissingElem.cpp; sourceTree = "<group>"; };
+		3A3BC7901FF68E8900DE8566 /* codility_lesson6_sorting_Triangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson6_sorting_Triangle.cpp; sourceTree = "<group>"; };
+		3A3BC7911FF68E8A00DE8566 /* codility_lesson12_ChocolatesByNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson12_ChocolatesByNumbers.cpp; sourceTree = "<group>"; };
+		3A3BC7921FF68E8A00DE8566 /* codility_lesson4_MaxCounters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson4_MaxCounters.cpp; sourceTree = "<group>"; };
+		3A3BC7931FF68E8A00DE8566 /* codility_lesson4_ MissingInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "codility_lesson4_ MissingInteger.cpp"; sourceTree = "<group>"; };
+		3A3BC7941FF68E8A00DE8566 /* codility_lesson8_Leader_Dominator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson8_Leader_Dominator.cpp; sourceTree = "<group>"; };
+		3A3BC7951FF68E8A00DE8566 /* codility_lesson10_CountFactors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson10_CountFactors.cpp; sourceTree = "<group>"; };
+		3A3BC7961FF68E8A00DE8566 /* codility_lesson8_Leader_EquiLeader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson8_Leader_EquiLeader.cpp; sourceTree = "<group>"; };
+		3A3BC7971FF68E8A00DE8566 /* codility_lesson10_MinPerimeterRectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson10_MinPerimeterRectangle.cpp; sourceTree = "<group>"; };
+		3A3BC7981FF68E8A00DE8566 /* codility_lesson14_MinMaxDivision.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson14_MinMaxDivision.cpp; sourceTree = "<group>"; };
+		3A3BC7991FF68E8B00DE8566 /* codility_lesson6_NumberOfDiscIntersections.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson6_NumberOfDiscIntersections.cpp; sourceTree = "<group>"; };
+		3A3BC79A1FF68E8B00DE8566 /* codility_lesson9_MaxSliceSum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = codility_lesson9_MaxSliceSum.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +92,46 @@
 		3A3BC76B1FF68E5A00DE8566 /* Codility_Lesson */ = {
 			isa = PBXGroup;
 			children = (
-				3A3BC76C1FF68E5A00DE8566 /* main.cpp */,
+				3A3BC7731FF68E8600DE8566 /* codility_lesson0_Demo1.cpp */,
+				3A3BC77A1FF68E8600DE8566 /* codility_lesson1_Iterations_BinaryGap.cpp */,
+				3A3BC7781FF68E8600DE8566 /* codility_lesson2_CyclicRotation.cpp */,
+				3A3BC78B1FF68E8800DE8566 /* codility_lesson2_OddOccurrencesInArray.cpp */,
+				3A3BC7741FF68E8600DE8566 /* codility_lesson3_FrogJmp.cpp */,
+				3A3BC78F1FF68E8900DE8566 /* codility_lesson3_PermMissingElem.cpp */,
+				3A3BC7861FF68E8800DE8566 /* codility_lesson3_TapeEquilibrium.cpp */,
+				3A3BC7931FF68E8A00DE8566 /* codility_lesson4_ MissingInteger.cpp */,
+				3A3BC77B1FF68E8600DE8566 /* codility_lesson4_FrogRiverOne.cpp */,
+				3A3BC7921FF68E8A00DE8566 /* codility_lesson4_MaxCounters.cpp */,
+				3A3BC7771FF68E8600DE8566 /* codility_lesson4_PermCheck.cpp */,
+				3A3BC77D1FF68E8700DE8566 /* codility_lesson5_CountDiv.cpp */,
+				3A3BC7751FF68E8600DE8566 /* codility_lesson5_GenomicRangeQuery.cpp */,
+				3A3BC78C1FF68E8900DE8566 /* codility_lesson5_MinAvgTwoSlice.cpp */,
+				3A3BC77C1FF68E8600DE8566 /* codility_lesson5_PassingCars.cpp */,
+				3A3BC7891FF68E8800DE8566 /* codility_lesson6_Distinct.cpp */,
+				3A3BC7991FF68E8B00DE8566 /* codility_lesson6_NumberOfDiscIntersections.cpp */,
+				3A3BC77E1FF68E8700DE8566 /* codility_lesson6_sorting_MaxProductOfThree.cpp */,
+				3A3BC7901FF68E8900DE8566 /* codility_lesson6_sorting_Triangle.cpp */,
+				3A3BC7821FF68E8700DE8566 /* codility_lesson7_Brackets.cpp */,
+				3A3BC7851FF68E8800DE8566 /* codility_lesson7_stack_queue_fish.cpp */,
+				3A3BC78D1FF68E8900DE8566 /* codility_lesson7_stack_queue_StoneWall.cpp */,
+				3A3BC7941FF68E8A00DE8566 /* codility_lesson8_Leader_Dominator.cpp */,
+				3A3BC7961FF68E8A00DE8566 /* codility_lesson8_Leader_EquiLeader.cpp */,
+				3A3BC78A1FF68E8800DE8566 /* codility_lesson9_MaxDoubleSliceSum.cpp */,
+				3A3BC7791FF68E8600DE8566 /* codility_lesson9_MaxProfit.cpp */,
+				3A3BC79A1FF68E8B00DE8566 /* codility_lesson9_MaxSliceSum.cpp */,
+				3A3BC7951FF68E8A00DE8566 /* codility_lesson10_CountFactors.cpp */,
+				3A3BC7831FF68E8700DE8566 /* codility_lesson10_Flags.cpp */,
+				3A3BC7971FF68E8A00DE8566 /* codility_lesson10_MinPerimeterRectangle.cpp */,
+				3A3BC78E1FF68E8900DE8566 /* codility_lesson10_peaks.cpp */,
+				3A3BC7881FF68E8800DE8566 /* codility_lesson11_CountSemiprimes.cpp */,
+				3A3BC7911FF68E8A00DE8566 /* codility_lesson12_ChocolatesByNumbers.cpp */,
+				3A3BC7981FF68E8A00DE8566 /* codility_lesson14_MinMaxDivision.cpp */,
+				3A3BC7841FF68E8800DE8566 /* codility_lesson14_NailingPlanks.cpp */,
+				3A3BC7801FF68E8700DE8566 /* codility_lesson15_AbsDistinct.cpp */,
+				3A3BC7811FF68E8700DE8566 /* codility_lesson15_CountDistinctSlices.cpp */,
+				3A3BC7761FF68E8600DE8566 /* codility_lesson15_CountTriangles.cpp */,
+				3A3BC77F1FF68E8700DE8566 /* codility_lesson16_MaxNonoverlappingSegments.cpp */,
+				3A3BC7871FF68E8800DE8566 /* codility_lesson16_TieRopes.cpp */,
 			);
 			path = Codility_Lesson;
 			sourceTree = "<group>";
@@ -69,7 +143,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3A3BC7701FF68E5A00DE8566 /* Build configuration list for PBXNativeTarget "Codility_Lesson" */;
 			buildPhases = (
-				3A3BC7651FF68E5A00DE8566 /* Sources */,
 				3A3BC7661FF68E5A00DE8566 /* Frameworks */,
 				3A3BC7671FF68E5A00DE8566 /* CopyFiles */,
 			);
@@ -113,17 +186,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXSourcesBuildPhase section */
-		3A3BC7651FF68E5A00DE8566 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3A3BC76D1FF68E5A00DE8566 /* main.cpp in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
 		3A3BC76E1FF68E5A00DE8566 /* Debug */ = {
